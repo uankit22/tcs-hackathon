@@ -24,9 +24,7 @@ Financial institutions need efficient and accurate tools to assess credit risk. 
 ├── rf_model.pkl              # Trained Random Forest Model
 ├── scaler.pkl                # StandardScaler object for numeric features
 ├── german_credit_data.csv    # Input Dataset
-├── Credit_Risk_Prediction_Report.pdf
-├── Credit_Risk_Project_Summary.pdf
-└── requirements.txt
+
 ```
 
 ---
