@@ -65,7 +65,7 @@ This will launch the app in your browser at http://localhost:8501
 ## 📽 Demo Video
 
 🎥 Watch the full walkthrough here:  
-[📺 Demo on YouTube](https://drive.google.com/file/d/1W4xpx11AMx1OtEy6AP-aC7KvAs8ipW61/view?usp=sharing)
+[📺 Demo ](https://drive.google.com/file/d/1W4xpx11AMx1OtEy6AP-aC7KvAs8ipW61/view?usp=sharing)
 
 ---
 
